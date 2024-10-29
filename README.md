@@ -1,0 +1,2 @@
+# PEFT_LoRA_NER
+基于peft微调实现LoRA微调BERT完成NER任务
